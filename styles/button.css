@@ -1,0 +1,29 @@
+#button1 {
+    background: linear-gradient(to bottom, #0000ff 0%, #ff00ff 100%);
+    color: white;
+    border:0;
+    width: 20%;
+}
+#button1:hover {
+    background:rgb(193, 0, 0);
+    color:rgb(255, 253, 253);
+   border: #a300b2;
+   width: 30%;
+   border-color: #ff00ff;
+   
+}
+#button2 {
+background: linear-gradient(to bottom right, #33ccff 4%, #6600cc 100%);
+color: white;
+border:0;
+    width: 40%;
+
+}
+#button2:hover {
+    background:rgb(193, 0, 0);
+    color:rgb(255, 253, 253);
+   border: #a300b2;
+   width: 45%;
+   border-color: #ff00ff;
+   
+}

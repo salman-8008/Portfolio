@@ -1,0 +1,25 @@
+nav {
+    background-color: #333;
+    color: #ffffff;
+    padding: 10px 0;
+    text-align: center;
+   position: sticky;
+   top: 0%;
+}
+/* 
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+} */
+
+.nav-link:hover {
+    background-color: rgb(97, 27, 89);
+    color: aquamarine;
+    font-size: 100;
+    }
+
